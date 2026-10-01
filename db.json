@@ -1,0 +1,67 @@
+{
+  "menuItems": [
+    {
+      "id": "1",
+      "name": "Chicken Biryani",
+      "category": "Main Course",
+      "price": 250,
+      "availability": true
+    },
+    {
+      "id": "3",
+      "name": "Gulab Jamun",
+      "category": "Dessert",
+      "price": 80,
+      "availability": true
+    },
+    {
+      "name": "Paneer ",
+      "category": "Main Course",
+      "price": 230,
+      "availability": true,
+      "id": "D9eLy-Y"
+    },
+    {
+      "name": "mutton biryani",
+      "category": "Main Course",
+      "price": 400,
+      "availability": true,
+      "id": "QeEMOFe"
+    },
+    {
+      "name": "dosa ",
+      "category": "tiffin",
+      "price": 200,
+      "availability": true,
+      "id": "mF6GdnR"
+    },
+    {
+      "name": "fried chicken",
+      "category": "sidedish",
+      "price": 240,
+      "availability": true,
+      "id": "NFsMEm8"
+    },
+    {
+      "name": "fries",
+      "category": "Food",
+      "price": 23,
+      "availability": true,
+      "id": "9gZp9jE"
+    },
+    {
+      "name": "gravy",
+      "category": "sidedish",
+      "price": 70,
+      "availability": true,
+      "id": "fWqCuBt"
+    },
+    {
+      "name": "veg curry",
+      "category": "sidedish",
+      "price": 128,
+      "availability": true,
+      "id": "PqW-j_7"
+    }
+  ]
+}
